@@ -13,7 +13,14 @@
   ],
   "author": "Carla Talamantes",
   "license": "MIT",
+  "bin":{
+    "npm-course":"./bin/global.js"
+  },
   "dependencies": {
     "moment": "^2.29.3"
-  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "preferGlobal": true
 }
