@@ -1,0 +1,16 @@
+{
+  "name": "media-player",
+  "version": "1.0.0",
+  "description": "Platzi Course",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "platzi"
+  ],
+  "author": "Carla Talamantes",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
